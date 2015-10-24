@@ -1,0 +1,19 @@
+Hello guys !
+This is my university graduation project.
+Well, what this project is all about is, it's an experimental
+application for kids where they can learn how to read and write.
+
+This project makes use of Audio Fingerprinting (Similar to Shazam) and
+Handwriting recognition.
+
+This entire project consists of 3 applications:
+- Client application
+- Application for teachers where they can manage school data
+- Server based application to manage databases
+
+I will upload each of them one by one lol !
+
+Have fun and please let me know, if any enquiries.
+
+This project was built using MS Visual Studio 2013 using C# and Java(for
+Audio Fingerprinting part). Database was done using MySQL.
