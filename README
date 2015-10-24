@@ -3,7 +3,7 @@ This is my university graduation project.
 Well, what this project is all about is, it's an experimental
 application for kids where they can learn how to read and write.
 
-This project makes use of Audio Fingerprinting (Similar to Shazam) and
+This project makes use of Audio Fingerprinting (Similar to Shazam) making use of an API named "musicg-api" and
 Handwriting recognition.
 
 This entire project consists of 3 applications:
@@ -13,7 +13,17 @@ This entire project consists of 3 applications:
 
 I will upload each of them one by one lol !
 
-Have fun and please let me know, if any enquiries.
+Have fun and please let me know, if any enquiries, please feel free to mail: abdushshakoor1992@hotmail.com
+
+Credits:
+Me: Took care of the entire project in terms of coding and database management, Documentation and Artwork
+Fauzan Rizaldi Sudrajat: Animation, Sound and Documentation
+Nilufa Hoque: Animation, Sound and Documentation
+Lorain Maria: Documentation
 
 This project was built using MS Visual Studio 2013 using C# and Java(for
 Audio Fingerprinting part). Database was done using MySQL.
+
+How to use this:
+Well, you've got to create a folder called "Pres_Proto" in your "C:\" drive and then download the project and "drag-drop" to this folder.
+Everything should work fine.
