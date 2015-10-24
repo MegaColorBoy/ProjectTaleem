@@ -1,0 +1,6 @@
+Ethan;2B;ColorBlindTR
+Jess;2C;ColorBlindFL
+Josh;1A;ColorBlindTR
+Michael;1F;ColorBlindTR
+Ron;2D;ColorBlindFL
+Thomas;1C;ColorBlindTR

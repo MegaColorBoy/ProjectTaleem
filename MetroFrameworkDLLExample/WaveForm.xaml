@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="MetroFrameworkDLLExample.WaveForm"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Height="400" Width="400">
+    <Grid Margin="0,0,0,100">
+        <Canvas x:Name="waveCanvas" HorizontalAlignment="Center" Height="150"
+    		Margin="10,10,0,0" VerticalAlignment="Top"
+    		Width="300" Background="White"/>
+        <TextBlock Name="CountDownBlk" HorizontalAlignment="Left" Margin="265,184,0,0" TextWrapping="Wrap" Text="Time Left: " VerticalAlignment="Top" FontSize="20" Width="90"/>
+        <Label x:Name="TimeLeftlbl" Content="Time Left: " HorizontalAlignment="Left" Margin="25,179,0,0" VerticalAlignment="Top" FontSize="20"/>
+    </Grid>
+</UserControl>
